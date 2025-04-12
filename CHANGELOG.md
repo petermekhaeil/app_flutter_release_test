@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/petermekhaeil/app_flutter_release_test/compare/app_flutter_release_test-v1.3.0...app_flutter_release_test-v1.4.0) (2025-04-12)
+
+
+### Features
+
+* [#4](https://github.com/petermekhaeil/app_flutter_release_test/issues/4) Change Text ([a3cc2ab](https://github.com/petermekhaeil/app_flutter_release_test/commit/a3cc2abb638b81a94fe9758d068ad786bdf2dc22))
+
 ## [1.3.0](https://github.com/petermekhaeil/app_flutter_release_test/compare/app_flutter_release_test-v1.2.0...app_flutter_release_test-v1.3.0) (2025-04-12)
 
 
