@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0+1](https://github.com/petermekhaeil/app_flutter_release_test/compare/app_flutter_release_test-v1.1.0+1...app_flutter_release_test-v1.2.0+1) (2025-04-12)
+
+
+### Features
+
+* Bump bloc_test, flutter_bloc and bloc ([#2](https://github.com/petermekhaeil/app_flutter_release_test/issues/2)) ([d34138e](https://github.com/petermekhaeil/app_flutter_release_test/commit/d34138ec6579fa5c2a5158398506ad873d0eb9ce))
+
 ## [1.1.0+1](https://github.com/petermekhaeil/app_flutter_release_test/compare/app_flutter_release_test-v1.0.0+1...app_flutter_release_test-v1.1.0+1) (2025-04-12)
 
 
