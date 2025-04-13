@@ -2,6 +2,6 @@
     "@@locale": "en",
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
-        "description": "Hello World"
+        "description": "Hello Peter"
     }
 }
